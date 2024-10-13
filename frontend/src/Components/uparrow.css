@@ -1,0 +1,28 @@
+.arrowbtn{
+   /* color:red; */
+   /* font-size: 50px; */
+   /* transform:rotate(0deg) */
+   animation: updown 2s ease-in-out infinite;
+
+   
+}
+
+@keyframes updown {
+    0%{
+        transform: translateY(0px);
+    }
+    100%{
+        transform: translateY(10px);
+    }
+}
+
+
+.styles-module_avatar__afcc4 img {
+    width: 50px !important;  /* Change the width of the WhatsApp icon */
+    height: 50px !important; /* Change the height of the WhatsApp icon */
+ /* Add a shadow */
+ padding: 2px;
+ /* background-color: red; */
+  }
+
+

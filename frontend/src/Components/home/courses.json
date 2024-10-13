@@ -1,0 +1,71 @@
+[
+
+    {
+    "id":1,
+    "path":"/coursesimages/pic1.avif",
+    "title":"Cyber Security 6-Month Diploma Course",
+    "link":"/cybersecurity"
+    },
+    {
+    "id":2,
+    "path":"/coursesimages/pic2.avif",
+    "title":"Ethical Hacking Training & Certification Programme",
+    "link":"/ethicalhacking"
+    },
+    {
+    "id":3,
+    "path":"/coursesimages/pic3.avif",
+    "title":"Digital Forensic Training & Services",
+    "link":"/forensic"
+    },
+    {
+    "id":4,
+    "path":"/coursesimages/pic4.avif",
+    "title":"AWS Cloud",
+    "link":"/aws"
+    },
+    {
+    "id":5,
+    "path":"/coursesimages/pic5.jpg",
+    "title":"CCNA",
+    "link":"/"
+    },
+    {
+    "id":6,
+    "path":"/coursesimages/oscp.jpeg",
+    "title":"OSCP",
+    "link":"/"
+    },
+    {
+    "id":7,
+    "path":"/coursesimages/CIH.jpeg",
+
+    "title":"ECIH",
+    "link":"/"
+    },
+    {
+    "id":8,
+    "path":"/coursesimages/CCNP.jpeg",
+
+    "title":"CCNP",
+    "link":"/"
+    },
+    {
+    "id":9,
+    "path":"/coursesimages/CPENT.jpeg",
+
+    "title":"CPENT",
+    "link":"/"
+    },
+    {
+    "id":10,
+    "path":"/coursesimages/CSA.jpeg",
+
+    "title":"CSA",
+    "link":"/"
+    }
+    
+    
+    ]
+    
+    

@@ -1,0 +1,44 @@
+/* SwiperComponent.css */
+
+.mySwiper {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  position:relative;
+  /* z-index: -1; */
+  place-items: center;
+
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0; /* No padding for seamless appearance */
+  /* border:2px solid red; */
+  width: 100%; /* Ensure image takes full width of slide */
+  /* height: auto; */
+  /* border:1px solid white; */
+  padding:15px;
+ 
+}
+
+.swiper-slide img {
+  width: 100%; /* Ensure image takes full width of slide */
+  height:250px; /* Maintain aspect ratio */
+  /* max-height: 400px; Limit max height for large screens */
+  object-fit:cover; /* Scale and crop image to fit within the slide */
+  border-radius: 8px; /* Optional: add border radius for rounded corners */
+  transition: transform 0.3s ease-in-out;
+}
+/* .swiper-slide img:hover{
+  transform: Scale(1.1);
+ 
+} */
+
+/* Add some spacing between images on smaller screens */
+@media (max-width: 768px) {
+  .swiper-slide img {
+      /* max-height: 200px; Adjust image height for smaller screens */
+  }
+}
